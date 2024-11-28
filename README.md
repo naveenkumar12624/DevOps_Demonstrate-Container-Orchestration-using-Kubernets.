@@ -1,4 +1,4 @@
-# Experiment 06: DevOps_Demonstrate-Container-Orchestration-using-Kubernets
+# Experiment 06: Demonstrate-Container-Orchestration-using-Kubernets
 
 <h2>Aim</h2>
 <p>The aim of this experiment is to introduce students to container orchestration using Kubernetes and demonstrate how to deploy a containerized web application. By the end of this experiment, students will have a basic understanding of Kubernetes concepts and how to use Kubernetes to manage containers.</p>
