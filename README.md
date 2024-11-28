@@ -1,4 +1,4 @@
-# Experiment 4 : DevOps_Demonstrate-Container-Orchestration-using-Kubernets
+# Experiment 06: DevOps_Demonstrate-Container-Orchestration-using-Kubernets
 
 
 <h1>Aim</h1>
